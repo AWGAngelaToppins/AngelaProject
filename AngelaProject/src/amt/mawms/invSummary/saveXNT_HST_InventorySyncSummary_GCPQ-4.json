@@ -1,0 +1,74 @@
+{
+	"receivedMessages": [
+		{
+			"ackId": "UAYWLF1GSFE3GQhoUQ5PXiM_NSAoRRYFCBQFfH1wQl51WlRyaFENGXJ9YHxjCUYHBUxWKltRGwdoTm11H5b2jYVLQ1RrXBYFBEVbeVpfGwlpWFxxBXn4oL_y1tbodwk9OoKo6qhtO53J_5VHZiM9XxJLLD5-NDJFQV5AEkw_B0RJUytDCypYEU4EISE-MD5FU0Q",
+			"message": {
+				"data": "eyJNZXNzYWdlIjp7IlNoaXBDb25maXJtIjp7IlNoaXBDb25maXJtRGV0YWlscyI6eyJPcmlnaW5hbE9yZGVyIjpbXSwiT3JkZXIiOlt7IlBhcnRpYWxTaGlwQ29uZmlybVN0YXR1cyI6IkZ1bGwgU2hpcENvbmZpcm0iLCJBbGxvd0ZhY2lsaXR5Q3JlYXRlZExpbmVzIjpmYWxzZSwiRGVzdGluYXRpb25GYWNpbGl0eUlkIjoiMDAwMDAxMDAwMSIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT3JkZXJMaW5lIjpbeyJPcmRlckxpbmVJZCI6IjEiLCJQYWNrZWRRdWFudGl0eSI6MTAsIkJhdGNoTnVtYmVyIjpudWxsLCJDYW5jZWxRdWFudGl0eSI6MCwiT3JkZXJlZFF1YW50aXR5IjoxMCwiSXRlbUlkIjoiMDBDRUwwMDQiLCJTaGlwcGVkUXVhbnRpdHkiOjEwLCJPcmRlcklkIjoiT0lER0pEMTAxMTAwMSJ9XSwiU2hpcG1lbnQiOlt7IlRyYWlsZXJOdW1iZXIiOm51bGwsIlRyYWN0b3JOdW1iZXIiOm51bGwsIkFzc2lnbmVkTW9kZUlkIjoiTFRMIiwiQXNzaWduZWRTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkFzc2lnbmVkQ2FycmllcklkIjoiODAwMTE3IiwiVG90YWxTaGlwbWVudENvc3QiOm51bGwsIkFzc2lnbmVkU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIlRvdGFsRnJlaWdodENvc3QiOm51bGwsIlRvdGFsQWNjZXNzb3JpYWxDb3N0IjpudWxsLCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiJ9XSwiT2xwbiI6W3siQ2FycmllcklkIjoiODAwMTE3IiwiQ29udGFpbmVyVHlwZUlkIjpudWxsLCJTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkVzdGltYXRlZFdlaWdodCI6MC4xNywiU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIkNvbnRhaW5lclNpemVJZCI6bnVsbCwiRXN0aW1hdGVkVm9sdW1lIjo3MzAsIlBhbGxldElkIjpudWxsLCJWb2x1bWUiOm51bGwsIlRyYWNraW5nTnVtYmVyIjpudWxsLCJNb2RlSWQiOiJMVEwiLCJXaWR0aCI6Mi40LCJMZW5ndGgiOjEuNTUsIlN0YXR1cyI6Ijc4MDAiLCJXZWlnaHQiOm51bGwsIk9scG5JZCI6IjAwMDAzNjEyNjIwMDAwMDExNDk1IiwiSGVpZ2h0IjoxOS43LCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT2xwbkRldGFpbFNpemUiOjEsIk9scG5EZXRhaWwiOlt7IlBhY2tlZFF1YW50aXR5IjoxMCwiT3JkZXJMaW5lSWQiOiIxIiwiSXRlbUlkIjoiMDBDRUwwMDQiLCJCYXRjaE51bWJlciI6bnVsbCwiUXVhbnRpdHlVb21JZCI6InVuaXRzIiwiVW5pdFdlaWdodFVvbUlkIjoia2ciLCJVbml0Vm9sdW1lVW9tSWQiOiJjdWNtIn1dfV19XX0sIlNoaXBDb25maXJtU3VtbWFyeSI6eyJPcmdhbml6YXRpb25OYW1lIjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtSGVhZGVySW5mbyI6eyJOdW1iZXJPZk9yZGVycyI6MSwiT3JnYW5pemF0aW9uIjoiTUFOSERFVi1ERVYwMSIsIkJ1c2luZXNzVW5pdElkIjoibnVsbCIsIlNoaXBDb25maXJtRGF0ZVRpbWUiOiIyMDIyLTEwLTExVDEyOjI1OjAyLjIxOCIsIkZhY2lsaXR5IjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtQmF0Y2hEZXRhaWxJZCI6IlNISVBDRlJfMDAwMDAyNV8xIiwiU2hpcENvbmZpcm1CYXRjaElkIjoiU0hJUENGUl8wMDAwMDI1In0sIk9yaWdpbkZhY2lsaXR5SWQiOiJNQU5IREVWLURFVjAxIn19fX0=",
+				"attributes": {
+					"BROKER_ADDRESS": "",
+					"fromInboundQueueName": "awpf-payload-queue-xin",
+					"UserLocale": "en",
+					"QueueName": "XNT_InventorySyncSummary_GCPQ",
+					"msg_submission_time": "2025-10-10T13:37:07.117",
+					"PrimaryOrganization": "AWG",
+					"fromInboundMessageType": "awpf-payload",
+					"fromInboundServiceId": "PayloadMsgProcessor",
+					"direction": "Outbound",
+					"BROKER_TYPE": "googlepubsub",
+					"app-id": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"OUTBOUND_MSG_TYPE": "XNT_HST_InventorySyncSummary",
+					"msg_submission_time_utc": "2025-10-10T13:37:07.117Z",
+					"Organization": "AWG",
+					"TRACE_ID": "25e669a0a0dc5cdc",
+					"SPAN_ID": "628aa4b8aa4c59f0",
+					"TRANSACTIONAL": "true",
+					"TenantId": "awgrssf11o",
+					"APP_ID_TRACE": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"ComponentName": "xint",
+					"MSG_TYPE": "XNT_HST_InventorySyncSummary",
+					"MSG_ID_PK": "29128884058116559246668573160961308",
+					"User": "rpanneerselvam@manh.com",
+					"AllBusinessUnitsAccessible": "false",
+					"SelectedOrganization": "AWG"
+				},
+				"messageId": "16546087540414042",
+				"publishTime": "2025-10-10T13:55:19.133Z"
+			}
+		},
+		{
+			"ackId": "UAYWLF1GSFE3GQhoUQ5PXiM_NSAoRRYFCBQFfH1wQl51WlRyaFENGXJ9YHxjCUYHBUxWKltRGgdoTm11H5b2jYVLQ1RrXBYFBEVUfVxZEw1vWlV0D3n4oL_y1tbodwk9OoKo6qhtO53J_5VHZiM9XxJLLD5-NDJFQV5AEkw_B0RJUytDCypYEU4EISE-MD5FU0Q",
+			"message": {
+				"data": "eyJNZXNzYWdlIjp7IlNoaXBDb25maXJtIjp7IlNoaXBDb25maXJtRGV0YWlscyI6eyJPcmlnaW5hbE9yZGVyIjpbXSwiT3JkZXIiOlt7IlBhcnRpYWxTaGlwQ29uZmlybVN0YXR1cyI6IkZ1bGwgU2hpcENvbmZpcm0iLCJBbGxvd0ZhY2lsaXR5Q3JlYXRlZExpbmVzIjpmYWxzZSwiRGVzdGluYXRpb25GYWNpbGl0eUlkIjoiMDAwMDAxMDAwMSIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT3JkZXJMaW5lIjpbeyJPcmRlckxpbmVJZCI6IjEiLCJQYWNrZWRRdWFudGl0eSI6MTAsIkJhdGNoTnVtYmVyIjpudWxsLCJDYW5jZWxRdWFudGl0eSI6MCwiT3JkZXJlZFF1YW50aXR5IjoxMCwiSXRlbUlkIjoiMDBDRUwwMDQiLCJTaGlwcGVkUXVhbnRpdHkiOjEwLCJPcmRlcklkIjoiT0lER0pEMTAxMTAwMSJ9XSwiU2hpcG1lbnQiOlt7IlRyYWlsZXJOdW1iZXIiOm51bGwsIlRyYWN0b3JOdW1iZXIiOm51bGwsIkFzc2lnbmVkTW9kZUlkIjoiTFRMIiwiQXNzaWduZWRTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkFzc2lnbmVkQ2FycmllcklkIjoiODAwMTE3IiwiVG90YWxTaGlwbWVudENvc3QiOm51bGwsIkFzc2lnbmVkU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIlRvdGFsRnJlaWdodENvc3QiOm51bGwsIlRvdGFsQWNjZXNzb3JpYWxDb3N0IjpudWxsLCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiJ9XSwiT2xwbiI6W3siQ2FycmllcklkIjoiODAwMTE3IiwiQ29udGFpbmVyVHlwZUlkIjpudWxsLCJTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkVzdGltYXRlZFdlaWdodCI6MC4xNywiU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIkNvbnRhaW5lclNpemVJZCI6bnVsbCwiRXN0aW1hdGVkVm9sdW1lIjo3MzAsIlBhbGxldElkIjpudWxsLCJWb2x1bWUiOm51bGwsIlRyYWNraW5nTnVtYmVyIjpudWxsLCJNb2RlSWQiOiJMVEwiLCJXaWR0aCI6Mi40LCJMZW5ndGgiOjEuNTUsIlN0YXR1cyI6Ijc4MDAiLCJXZWlnaHQiOm51bGwsIk9scG5JZCI6IjAwMDAzNjEyNjIwMDAwMDExNDk1IiwiSGVpZ2h0IjoxOS43LCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT2xwbkRldGFpbFNpemUiOjEsIk9scG5EZXRhaWwiOlt7IlBhY2tlZFF1YW50aXR5IjoxMCwiT3JkZXJMaW5lSWQiOiIxIiwiSXRlbUlkIjoiMDBDRUwwMDQiLCJCYXRjaE51bWJlciI6bnVsbCwiUXVhbnRpdHlVb21JZCI6InVuaXRzIiwiVW5pdFdlaWdodFVvbUlkIjoia2ciLCJVbml0Vm9sdW1lVW9tSWQiOiJjdWNtIn1dfV19XX0sIlNoaXBDb25maXJtU3VtbWFyeSI6eyJPcmdhbml6YXRpb25OYW1lIjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtSGVhZGVySW5mbyI6eyJOdW1iZXJPZk9yZGVycyI6MSwiT3JnYW5pemF0aW9uIjoiTUFOSERFVi1ERVYwMSIsIkJ1c2luZXNzVW5pdElkIjoibnVsbCIsIlNoaXBDb25maXJtRGF0ZVRpbWUiOiIyMDIyLTEwLTExVDEyOjI1OjAyLjIxOCIsIkZhY2lsaXR5IjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtQmF0Y2hEZXRhaWxJZCI6IlNISVBDRlJfMDAwMDAyNV8xIiwiU2hpcENvbmZpcm1CYXRjaElkIjoiU0hJUENGUl8wMDAwMDI1In0sIk9yaWdpbkZhY2lsaXR5SWQiOiJNQU5IREVWLURFVjAxIn19fX0=",
+				"attributes": {
+					"TenantId": "awgrssf11o",
+					"fromInboundMessageType": "awpf-payload",
+					"SelectedOrganization": "AWG",
+					"QueueName": "XNT_InventorySyncSummary_GCPQ",
+					"SPAN_ID": "db43a7c78053f56c",
+					"MSG_ID_PK": "432138783057316559153940745091766219",
+					"msg_submission_time": "2025-10-10T13:37:06.189",
+					"PrimaryOrganization": "AWG",
+					"fromInboundQueueName": "awpf-payload-queue-xin",
+					"BROKER_TYPE": "googlepubsub",
+					"APP_ID_TRACE": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"MSG_TYPE": "XNT_HST_InventorySyncSummary",
+					"User": "rpanneerselvam@manh.com",
+					"Organization": "AWG",
+					"msg_submission_time_utc": "2025-10-10T13:37:06.190Z",
+					"OUTBOUND_MSG_TYPE": "XNT_HST_InventorySyncSummary",
+					"BROKER_ADDRESS": "",
+					"app-id": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"UserLocale": "en",
+					"TRANSACTIONAL": "true",
+					"direction": "Outbound",
+					"fromInboundServiceId": "PayloadMsgProcessor",
+					"ComponentName": "xint",
+					"AllBusinessUnitsAccessible": "false",
+					"TRACE_ID": "79ee6c0207634969"
+				},
+				"messageId": "16546073328076918",
+				"publishTime": "2025-10-10T13:55:19.133Z"
+			}
+		}
+	]
+}

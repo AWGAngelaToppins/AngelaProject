@@ -1,0 +1,91 @@
+{
+	"Message": {
+		"ShipConfirm": {
+			"ShipConfirmDetails": {
+				"OriginalOrder": [],
+				"Order": [
+					{
+						"PartialShipConfirmStatus": "Full ShipConfirm",
+						"AllowFacilityCreatedLines": false,
+						"DestinationFacilityId": "0000010001",
+						"OrderId": "OIDGJD1011001",
+						"OrderLine": [
+							{
+								"OrderLineId": "1",
+								"PackedQuantity": 10,
+								"BatchNumber": null,
+								"CancelQuantity": 0,
+								"OrderedQuantity": 10,
+								"ItemId": "00CEL004",
+								"ShippedQuantity": 10,
+								"OrderId": "OIDGJD1011001"
+							}
+						],
+						"Shipment": [
+							{
+								"TrailerNumber": null,
+								"TractorNumber": null,
+								"AssignedModeId": "LTL",
+								"AssignedServiceLevelId": "LTL",
+								"AssignedCarrierId": "800117",
+								"TotalShipmentCost": null,
+								"AssignedShipViaId": "BESSON-LTL",
+								"TotalFreightCost": null,
+								"TotalAccessorialCost": null,
+								"ShipmentId": "S000000082"
+							}
+						],
+						"Olpn": [
+							{
+								"CarrierId": "800117",
+								"ContainerTypeId": null,
+								"ServiceLevelId": "LTL",
+								"EstimatedWeight": 0.17,
+								"ShipViaId": "BESSON-LTL",
+								"ContainerSizeId": null,
+								"EstimatedVolume": 730,
+								"PalletId": null,
+								"Volume": null,
+								"TrackingNumber": null,
+								"ModeId": "LTL",
+								"Width": 2.4,
+								"Length": 1.55,
+								"Status": "7800",
+								"Weight": null,
+								"OlpnId": "00003612620000011495",
+								"Height": 19.7,
+								"ShipmentId": "S000000082",
+								"OrderId": "OIDGJD1011001",
+								"OlpnDetailSize": 1,
+								"OlpnDetail": [
+									{
+										"PackedQuantity": 10,
+										"OrderLineId": "1",
+										"ItemId": "00CEL004",
+										"BatchNumber": null,
+										"QuantityUomId": "units",
+										"UnitWeightUomId": "kg",
+										"UnitVolumeUomId": "cucm"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"ShipConfirmSummary": {
+				"OrganizationName": "MANHDEV-DEV01",
+				"ShipConfirmHeaderInfo": {
+					"NumberOfOrders": 1,
+					"Organization": "MANHDEV-DEV01",
+					"BusinessUnitId": "null",
+					"ShipConfirmDateTime": "2022-10-11T12:25:02.218",
+					"Facility": "MANHDEV-DEV01",
+					"ShipConfirmBatchDetailId": "SHIPCFR_0000025_1",
+					"ShipConfirmBatchId": "SHIPCFR_0000025"
+				},
+				"OriginFacilityId": "MANHDEV-DEV01"
+			}
+		}
+	}
+}
