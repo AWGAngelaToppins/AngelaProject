@@ -11,11 +11,13 @@ import java.util.List;
 public class TesterUlg {
 
 	public static void main(String[] args) throws Exception {
-//		testProcess("");
-//		testULG();
-		
 		System.out.println("start");
-		UlgChangesTester.process();
+
+//		testProcess("");
+//		LinkLikeItemDetailsTESTER.process();
+		LinkLikeItemAddtlDetailsTESTER.process();
+//		UlgChangesTester.process();
+
 		System.out.println("end");
 	}
 	public static void testULG() throws Exception	{

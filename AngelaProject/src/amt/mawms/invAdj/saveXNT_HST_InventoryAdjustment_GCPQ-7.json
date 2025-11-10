@@ -1,0 +1,144 @@
+{
+	"receivedMessages": [
+		{
+			"ackId": "DjZCAw8EISE-MD5HRV5AAgI8Cw5ZEmFfViRRUy8yKy58c25efAECRVN-XlISXj1eX3ZSAwoTcndhZ1taC8ST0KRIfXoaC21YWncAUQsdc3xkfGpSFCm73du_5qbRLHJgZLCWxPovUtSnucBpZjU9KRJLLD5-PC8JTllTF0wsABlMEiEZDyhfAF8GICMiaj0FTEFBWAAiAB5PEigZ",
+			"message": {
+				"data": "eyJNZXNzYWdlIjp7IlNoaXBDb25maXJtIjp7IlNoaXBDb25maXJtRGV0YWlscyI6eyJPcmlnaW5hbE9yZGVyIjpbXSwiT3JkZXIiOlt7IlBhcnRpYWxTaGlwQ29uZmlybVN0YXR1cyI6IkZ1bGwgU2hpcENvbmZpcm0iLCJBbGxvd0ZhY2lsaXR5Q3JlYXRlZExpbmVzIjpmYWxzZSwiRGVzdGluYXRpb25GYWNpbGl0eUlkIjoiMDAwMDAxMDAwMSIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT3JkZXJMaW5lIjpbeyJPcmRlckxpbmVJZCI6IjEiLCJQYWNrZWRRdWFudGl0eSI6MTAsIkJhdGNoTnVtYmVyIjpudWxsLCJDYW5jZWxRdWFudGl0eSI6MCwiT3JkZXJlZFF1YW50aXR5IjoxMCwiSXRlbUlkIjoiMDBDRUwwMDQiLCJTaGlwcGVkUXVhbnRpdHkiOjEwLCJPcmRlcklkIjoiT0lER0pEMTAxMTAwMSJ9XSwiU2hpcG1lbnQiOlt7IlRyYWlsZXJOdW1iZXIiOm51bGwsIlRyYWN0b3JOdW1iZXIiOm51bGwsIkFzc2lnbmVkTW9kZUlkIjoiTFRMIiwiQXNzaWduZWRTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkFzc2lnbmVkQ2FycmllcklkIjoiODAwMTE3IiwiVG90YWxTaGlwbWVudENvc3QiOm51bGwsIkFzc2lnbmVkU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIlRvdGFsRnJlaWdodENvc3QiOm51bGwsIlRvdGFsQWNjZXNzb3JpYWxDb3N0IjpudWxsLCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiJ9XSwiT2xwbiI6W3siQ2FycmllcklkIjoiODAwMTE3IiwiQ29udGFpbmVyVHlwZUlkIjpudWxsLCJTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkVzdGltYXRlZFdlaWdodCI6MC4xNywiU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIkNvbnRhaW5lclNpemVJZCI6bnVsbCwiRXN0aW1hdGVkVm9sdW1lIjo3MzAsIlBhbGxldElkIjpudWxsLCJWb2x1bWUiOm51bGwsIlRyYWNraW5nTnVtYmVyIjpudWxsLCJNb2RlSWQiOiJMVEwiLCJXaWR0aCI6Mi40LCJMZW5ndGgiOjEuNTUsIlN0YXR1cyI6Ijc4MDAiLCJXZWlnaHQiOm51bGwsIk9scG5JZCI6IjAwMDAzNjEyNjIwMDAwMDExNDk1IiwiSGVpZ2h0IjoxOS43LCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT2xwbkRldGFpbFNpemUiOjEsIk9scG5EZXRhaWwiOlt7IlBhY2tlZFF1YW50aXR5IjoxMCwiT3JkZXJMaW5lSWQiOiIxIiwiSXRlbUlkIjoiMDBDRUwwMDQiLCJCYXRjaE51bWJlciI6bnVsbCwiUXVhbnRpdHlVb21JZCI6InVuaXRzIiwiVW5pdFdlaWdodFVvbUlkIjoia2ciLCJVbml0Vm9sdW1lVW9tSWQiOiJjdWNtIn1dfV19XX0sIlNoaXBDb25maXJtU3VtbWFyeSI6eyJPcmdhbml6YXRpb25OYW1lIjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtSGVhZGVySW5mbyI6eyJOdW1iZXJPZk9yZGVycyI6MSwiT3JnYW5pemF0aW9uIjoiTUFOSERFVi1ERVYwMSIsIkJ1c2luZXNzVW5pdElkIjoibnVsbCIsIlNoaXBDb25maXJtRGF0ZVRpbWUiOiIyMDIyLTEwLTExVDEyOjI1OjAyLjIxOCIsIkZhY2lsaXR5IjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtQmF0Y2hEZXRhaWxJZCI6IlNISVBDRlJfMDAwMDAyNV8xIiwiU2hpcENvbmZpcm1CYXRjaElkIjoiU0hJUENGUl8wMDAwMDI1In0sIk9yaWdpbkZhY2lsaXR5SWQiOiJNQU5IREVWLURFVjAxIn19fX0=",
+				"attributes": {
+					"fromInboundMessageType": "awpf-payload",
+					"TenantId": "awgrssf11o",
+					"MSG_ID_PK": "168145575147216220563696511731464978",
+					"direction": "Outbound",
+					"AllBusinessUnitsAccessible": "false",
+					"BROKER_TYPE": "googlepubsub",
+					"BROKER_ADDRESS": "",
+					"app-id": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"fromInboundServiceId": "PayloadMsgProcessor",
+					"APP_ID_TRACE": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"msg_submission_time_utc": "2025-10-10T12:40:40.287Z",
+					"fromInboundQueueName": "awpf-payload-queue-xin",
+					"OUTBOUND_MSG_TYPE": "XNT_HST_InventoryAdjustment",
+					"TRANSACTIONAL": "true",
+					"PrimaryOrganization": "AWG",
+					"User": "rpanneerselvam@manh.com",
+					"QueueName": "XNT_HST_InventoryAdjustment_GCPQ",
+					"Organization": "AWG",
+					"TRACE_ID": "52e1b50f746c94be",
+					"MSG_TYPE": "XNT_HST_InventoryAdjustment",
+					"ComponentName": "xint",
+					"msg_submission_time": "2025-10-10T12:40:40.287",
+					"SelectedOrganization": "AWG",
+					"SPAN_ID": "ef6954635b1d4cd6",
+					"UserLocale": "en"
+				},
+				"messageId": "16546270641159087",
+				"publishTime": "2025-10-10T12:40:40.395Z"
+			}
+		},
+		{
+			"ackId": "DjZCAw8EISE-MD5HRV5AAgI8Cw5ZEmFfViRRUy8yKy58c25efAECRVN-XlISXj1eX3ZSAwoTc3dhZ1taC8ST0KRIfXoaC21YWnUEVAgZen5nfG1ZFim73du_5qbRLHJgZLCWxPovUtSnucBpZjU9KRJLLD5-PC8JTllTF0wsABlMEiEZDyhfAF8GICMiaj0FTEFBWAAiAB5PEigZ",
+			"message": {
+				"data": "eyJNZXNzYWdlIjp7IlNoaXBDb25maXJtIjp7IlNoaXBDb25maXJtRGV0YWlscyI6eyJPcmlnaW5hbE9yZGVyIjpbXSwiT3JkZXIiOlt7IlBhcnRpYWxTaGlwQ29uZmlybVN0YXR1cyI6IkZ1bGwgU2hpcENvbmZpcm0iLCJBbGxvd0ZhY2lsaXR5Q3JlYXRlZExpbmVzIjpmYWxzZSwiRGVzdGluYXRpb25GYWNpbGl0eUlkIjoiMDAwMDAxMDAwMSIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT3JkZXJMaW5lIjpbeyJPcmRlckxpbmVJZCI6IjEiLCJQYWNrZWRRdWFudGl0eSI6MTAsIkJhdGNoTnVtYmVyIjpudWxsLCJDYW5jZWxRdWFudGl0eSI6MCwiT3JkZXJlZFF1YW50aXR5IjoxMCwiSXRlbUlkIjoiMDBDRUwwMDQiLCJTaGlwcGVkUXVhbnRpdHkiOjEwLCJPcmRlcklkIjoiT0lER0pEMTAxMTAwMSJ9XSwiU2hpcG1lbnQiOlt7IlRyYWlsZXJOdW1iZXIiOm51bGwsIlRyYWN0b3JOdW1iZXIiOm51bGwsIkFzc2lnbmVkTW9kZUlkIjoiTFRMIiwiQXNzaWduZWRTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkFzc2lnbmVkQ2FycmllcklkIjoiODAwMTE3IiwiVG90YWxTaGlwbWVudENvc3QiOm51bGwsIkFzc2lnbmVkU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIlRvdGFsRnJlaWdodENvc3QiOm51bGwsIlRvdGFsQWNjZXNzb3JpYWxDb3N0IjpudWxsLCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiJ9XSwiT2xwbiI6W3siQ2FycmllcklkIjoiODAwMTE3IiwiQ29udGFpbmVyVHlwZUlkIjpudWxsLCJTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkVzdGltYXRlZFdlaWdodCI6MC4xNywiU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIkNvbnRhaW5lclNpemVJZCI6bnVsbCwiRXN0aW1hdGVkVm9sdW1lIjo3MzAsIlBhbGxldElkIjpudWxsLCJWb2x1bWUiOm51bGwsIlRyYWNraW5nTnVtYmVyIjpudWxsLCJNb2RlSWQiOiJMVEwiLCJXaWR0aCI6Mi40LCJMZW5ndGgiOjEuNTUsIlN0YXR1cyI6Ijc4MDAiLCJXZWlnaHQiOm51bGwsIk9scG5JZCI6IjAwMDAzNjEyNjIwMDAwMDExNDk1IiwiSGVpZ2h0IjoxOS43LCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT2xwbkRldGFpbFNpemUiOjEsIk9scG5EZXRhaWwiOlt7IlBhY2tlZFF1YW50aXR5IjoxMCwiT3JkZXJMaW5lSWQiOiIxIiwiSXRlbUlkIjoiMDBDRUwwMDQiLCJCYXRjaE51bWJlciI6bnVsbCwiUXVhbnRpdHlVb21JZCI6InVuaXRzIiwiVW5pdFdlaWdodFVvbUlkIjoia2ciLCJVbml0Vm9sdW1lVW9tSWQiOiJjdWNtIn1dfV19XX0sIlNoaXBDb25maXJtU3VtbWFyeSI6eyJPcmdhbml6YXRpb25OYW1lIjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtSGVhZGVySW5mbyI6eyJOdW1iZXJPZk9yZGVycyI6MSwiT3JnYW5pemF0aW9uIjoiTUFOSERFVi1ERVYwMSIsIkJ1c2luZXNzVW5pdElkIjoibnVsbCIsIlNoaXBDb25maXJtRGF0ZVRpbWUiOiIyMDIyLTEwLTExVDEyOjI1OjAyLjIxOCIsIkZhY2lsaXR5IjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtQmF0Y2hEZXRhaWxJZCI6IlNISVBDRlJfMDAwMDAyNV8xIiwiU2hpcENvbmZpcm1CYXRjaElkIjoiU0hJUENGUl8wMDAwMDI1In0sIk9yaWdpbkZhY2lsaXR5SWQiOiJNQU5IREVWLURFVjAxIn19fX0=",
+				"attributes": {
+					"ComponentName": "xint",
+					"PrimaryOrganization": "AWG",
+					"direction": "Outbound",
+					"BROKER_ADDRESS": "",
+					"User": "rpanneerselvam@manh.com",
+					"MSG_ID_PK": "57636517351516220670818781767969583",
+					"msg_submission_time": "2025-10-10T12:40:41.358",
+					"TenantId": "awgrssf11o",
+					"app-id": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"SPAN_ID": "b3b9365a5261a543",
+					"Organization": "AWG",
+					"fromInboundMessageType": "awpf-payload",
+					"TRACE_ID": "69c3ee79edc9dc5c",
+					"SelectedOrganization": "AWG",
+					"QueueName": "XNT_HST_InventoryAdjustment_GCPQ",
+					"fromInboundServiceId": "PayloadMsgProcessor",
+					"AllBusinessUnitsAccessible": "false",
+					"msg_submission_time_utc": "2025-10-10T12:40:41.358Z",
+					"MSG_TYPE": "XNT_HST_InventoryAdjustment",
+					"OUTBOUND_MSG_TYPE": "XNT_HST_InventoryAdjustment",
+					"BROKER_TYPE": "googlepubsub",
+					"UserLocale": "en",
+					"fromInboundQueueName": "awpf-payload-queue-xin",
+					"TRANSACTIONAL": "true",
+					"APP_ID_TRACE": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q"
+				},
+				"messageId": "16546035508369735",
+				"publishTime": "2025-10-10T12:40:41.444Z"
+			}
+		},
+		{
+			"ackId": "DjZCAw8EISE-MD5HRV5AAgI8Cw5ZEmFfViRRUy8yKy58c25efAECRVN-XlISXj1eX3ZSAwoTcHdhZ1taC8ST0KRIfXoaC2taWXcPWA0ccX1lfG5YEim73du_5qbRLHJgZLCWxPovUtSnucBpZjU9KRJLLD5-PC8JTllTF0wsABlMEiEZDyhfAF8GICMiaj0FTEFBWAAiAB5PEigZ",
+			"message": {
+				"data": "eyJNZXNzYWdlIjp7IlNoaXBDb25maXJtIjp7IlNoaXBDb25maXJtRGV0YWlscyI6eyJPcmlnaW5hbE9yZGVyIjpbXSwiT3JkZXIiOlt7IlBhcnRpYWxTaGlwQ29uZmlybVN0YXR1cyI6IkZ1bGwgU2hpcENvbmZpcm0iLCJBbGxvd0ZhY2lsaXR5Q3JlYXRlZExpbmVzIjpmYWxzZSwiRGVzdGluYXRpb25GYWNpbGl0eUlkIjoiMDAwMDAxMDAwMSIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT3JkZXJMaW5lIjpbeyJPcmRlckxpbmVJZCI6IjEiLCJQYWNrZWRRdWFudGl0eSI6MTAsIkJhdGNoTnVtYmVyIjpudWxsLCJDYW5jZWxRdWFudGl0eSI6MCwiT3JkZXJlZFF1YW50aXR5IjoxMCwiSXRlbUlkIjoiMDBDRUwwMDQiLCJTaGlwcGVkUXVhbnRpdHkiOjEwLCJPcmRlcklkIjoiT0lER0pEMTAxMTAwMSJ9XSwiU2hpcG1lbnQiOlt7IlRyYWlsZXJOdW1iZXIiOm51bGwsIlRyYWN0b3JOdW1iZXIiOm51bGwsIkFzc2lnbmVkTW9kZUlkIjoiTFRMIiwiQXNzaWduZWRTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkFzc2lnbmVkQ2FycmllcklkIjoiODAwMTE3IiwiVG90YWxTaGlwbWVudENvc3QiOm51bGwsIkFzc2lnbmVkU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIlRvdGFsRnJlaWdodENvc3QiOm51bGwsIlRvdGFsQWNjZXNzb3JpYWxDb3N0IjpudWxsLCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiJ9XSwiT2xwbiI6W3siQ2FycmllcklkIjoiODAwMTE3IiwiQ29udGFpbmVyVHlwZUlkIjpudWxsLCJTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkVzdGltYXRlZFdlaWdodCI6MC4xNywiU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIkNvbnRhaW5lclNpemVJZCI6bnVsbCwiRXN0aW1hdGVkVm9sdW1lIjo3MzAsIlBhbGxldElkIjpudWxsLCJWb2x1bWUiOm51bGwsIlRyYWNraW5nTnVtYmVyIjpudWxsLCJNb2RlSWQiOiJMVEwiLCJXaWR0aCI6Mi40LCJMZW5ndGgiOjEuNTUsIlN0YXR1cyI6Ijc4MDAiLCJXZWlnaHQiOm51bGwsIk9scG5JZCI6IjAwMDAzNjEyNjIwMDAwMDExNDk1IiwiSGVpZ2h0IjoxOS43LCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT2xwbkRldGFpbFNpemUiOjEsIk9scG5EZXRhaWwiOlt7IlBhY2tlZFF1YW50aXR5IjoxMCwiT3JkZXJMaW5lSWQiOiIxIiwiSXRlbUlkIjoiMDBDRUwwMDQiLCJCYXRjaE51bWJlciI6bnVsbCwiUXVhbnRpdHlVb21JZCI6InVuaXRzIiwiVW5pdFdlaWdodFVvbUlkIjoia2ciLCJVbml0Vm9sdW1lVW9tSWQiOiJjdWNtIn1dfV19XX0sIlNoaXBDb25maXJtU3VtbWFyeSI6eyJPcmdhbml6YXRpb25OYW1lIjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtSGVhZGVySW5mbyI6eyJOdW1iZXJPZk9yZGVycyI6MSwiT3JnYW5pemF0aW9uIjoiTUFOSERFVi1ERVYwMSIsIkJ1c2luZXNzVW5pdElkIjoibnVsbCIsIlNoaXBDb25maXJtRGF0ZVRpbWUiOiIyMDIyLTEwLTExVDEyOjI1OjAyLjIxOCIsIkZhY2lsaXR5IjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtQmF0Y2hEZXRhaWxJZCI6IlNISVBDRlJfMDAwMDAyNV8xIiwiU2hpcENvbmZpcm1CYXRjaElkIjoiU0hJUENGUl8wMDAwMDI1In0sIk9yaWdpbkZhY2lsaXR5SWQiOiJNQU5IREVWLURFVjAxIn19fX0=",
+				"attributes": {
+					"UserLocale": "en",
+					"app-id": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"TRANSACTIONAL": "true",
+					"SPAN_ID": "b7dabbcc122c2794",
+					"OUTBOUND_MSG_TYPE": "XNT_HST_InventoryAdjustment",
+					"Organization": "AWG",
+					"SelectedOrganization": "AWG",
+					"User": "rpanneerselvam@manh.com",
+					"BROKER_ADDRESS": "",
+					"direction": "Outbound",
+					"fromInboundMessageType": "awpf-payload",
+					"fromInboundServiceId": "PayloadMsgProcessor",
+					"PrimaryOrganization": "AWG",
+					"ComponentName": "xint",
+					"APP_ID_TRACE": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"TenantId": "awgrssf11o",
+					"QueueName": "XNT_HST_InventoryAdjustment_GCPQ",
+					"BROKER_TYPE": "googlepubsub",
+					"MSG_TYPE": "XNT_HST_InventoryAdjustment",
+					"msg_submission_time": "2025-10-10T12:45:23.141",
+					"fromInboundQueueName": "awpf-payload-queue-xin",
+					"TRACE_ID": "f3ff1c936b3a0591",
+					"AllBusinessUnitsAccessible": "false",
+					"msg_submission_time_utc": "2025-10-10T12:45:23.141Z",
+					"MSG_ID_PK": "338177712023516248849137000542953057"
+				},
+				"messageId": "16365289053049421",
+				"publishTime": "2025-10-10T12:45:23.338Z"
+			}
+		},
+		{
+			"ackId": "DjZCAw8EISE-MD5HRV5AAgI8Cw5ZEmFfViRRUy8yKy58c25efAECRVN-XlISXj1eX3ZSAwoTcXdhZ1taC8ST0KRIfXoaC21YX3wOWAgYdn1odG5bFim73du_5qbRLHJgZLCWxPovUtSnucBpZjU9KRJLLD5-PC8JTllTF0wsABlMEiEZDyhfAF8GICMiaj0FTEFBWAAiAB5PEigZ",
+			"message": {
+				"data": "eyJNZXNzYWdlIjp7IlNoaXBDb25maXJtIjp7IlNoaXBDb25maXJtRGV0YWlscyI6eyJPcmlnaW5hbE9yZGVyIjpbXSwiT3JkZXIiOlt7IlBhcnRpYWxTaGlwQ29uZmlybVN0YXR1cyI6IkZ1bGwgU2hpcENvbmZpcm0iLCJBbGxvd0ZhY2lsaXR5Q3JlYXRlZExpbmVzIjpmYWxzZSwiRGVzdGluYXRpb25GYWNpbGl0eUlkIjoiMDAwMDAxMDAwMSIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT3JkZXJMaW5lIjpbeyJPcmRlckxpbmVJZCI6IjEiLCJQYWNrZWRRdWFudGl0eSI6MTAsIkJhdGNoTnVtYmVyIjpudWxsLCJDYW5jZWxRdWFudGl0eSI6MCwiT3JkZXJlZFF1YW50aXR5IjoxMCwiSXRlbUlkIjoiMDBDRUwwMDQiLCJTaGlwcGVkUXVhbnRpdHkiOjEwLCJPcmRlcklkIjoiT0lER0pEMTAxMTAwMSJ9XSwiU2hpcG1lbnQiOlt7IlRyYWlsZXJOdW1iZXIiOm51bGwsIlRyYWN0b3JOdW1iZXIiOm51bGwsIkFzc2lnbmVkTW9kZUlkIjoiTFRMIiwiQXNzaWduZWRTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkFzc2lnbmVkQ2FycmllcklkIjoiODAwMTE3IiwiVG90YWxTaGlwbWVudENvc3QiOm51bGwsIkFzc2lnbmVkU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIlRvdGFsRnJlaWdodENvc3QiOm51bGwsIlRvdGFsQWNjZXNzb3JpYWxDb3N0IjpudWxsLCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiJ9XSwiT2xwbiI6W3siQ2FycmllcklkIjoiODAwMTE3IiwiQ29udGFpbmVyVHlwZUlkIjpudWxsLCJTZXJ2aWNlTGV2ZWxJZCI6IkxUTCIsIkVzdGltYXRlZFdlaWdodCI6MC4xNywiU2hpcFZpYUlkIjoiQkVTU09OLUxUTCIsIkNvbnRhaW5lclNpemVJZCI6bnVsbCwiRXN0aW1hdGVkVm9sdW1lIjo3MzAsIlBhbGxldElkIjpudWxsLCJWb2x1bWUiOm51bGwsIlRyYWNraW5nTnVtYmVyIjpudWxsLCJNb2RlSWQiOiJMVEwiLCJXaWR0aCI6Mi40LCJMZW5ndGgiOjEuNTUsIlN0YXR1cyI6Ijc4MDAiLCJXZWlnaHQiOm51bGwsIk9scG5JZCI6IjAwMDAzNjEyNjIwMDAwMDExNDk1IiwiSGVpZ2h0IjoxOS43LCJTaGlwbWVudElkIjoiUzAwMDAwMDA4MiIsIk9yZGVySWQiOiJPSURHSkQxMDExMDAxIiwiT2xwbkRldGFpbFNpemUiOjEsIk9scG5EZXRhaWwiOlt7IlBhY2tlZFF1YW50aXR5IjoxMCwiT3JkZXJMaW5lSWQiOiIxIiwiSXRlbUlkIjoiMDBDRUwwMDQiLCJCYXRjaE51bWJlciI6bnVsbCwiUXVhbnRpdHlVb21JZCI6InVuaXRzIiwiVW5pdFdlaWdodFVvbUlkIjoia2ciLCJVbml0Vm9sdW1lVW9tSWQiOiJjdWNtIn1dfV19XX0sIlNoaXBDb25maXJtU3VtbWFyeSI6eyJPcmdhbml6YXRpb25OYW1lIjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtSGVhZGVySW5mbyI6eyJOdW1iZXJPZk9yZGVycyI6MSwiT3JnYW5pemF0aW9uIjoiTUFOSERFVi1ERVYwMSIsIkJ1c2luZXNzVW5pdElkIjoibnVsbCIsIlNoaXBDb25maXJtRGF0ZVRpbWUiOiIyMDIyLTEwLTExVDEyOjI1OjAyLjIxOCIsIkZhY2lsaXR5IjoiTUFOSERFVi1ERVYwMSIsIlNoaXBDb25maXJtQmF0Y2hEZXRhaWxJZCI6IlNISVBDRlJfMDAwMDAyNV8xIiwiU2hpcENvbmZpcm1CYXRjaElkIjoiU0hJUENGUl8wMDAwMDI1In0sIk9yaWdpbkZhY2lsaXR5SWQiOiJNQU5IREVWLURFVjAxIn19fX0=",
+				"attributes": {
+					"UserLocale": "en",
+					"msg_submission_time_utc": "2025-10-10T12:45:25.188Z",
+					"BROKER_TYPE": "googlepubsub",
+					"SPAN_ID": "f04008446f09c415",
+					"TRANSACTIONAL": "true",
+					"BROKER_ADDRESS": "",
+					"AllBusinessUnitsAccessible": "false",
+					"TenantId": "awgrssf11o",
+					"fromInboundQueueName": "awpf-payload-queue-xin",
+					"PrimaryOrganization": "AWG",
+					"msg_submission_time": "2025-10-10T12:45:25.188",
+					"fromInboundServiceId": "PayloadMsgProcessor",
+					"QueueName": "XNT_HST_InventoryAdjustment_GCPQ",
+					"OUTBOUND_MSG_TYPE": "XNT_HST_InventoryAdjustment",
+					"MSG_ID_PK": "965144942458816249053791703980030696",
+					"SelectedOrganization": "AWG",
+					"ComponentName": "xint",
+					"APP_ID_TRACE": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"app-id": "com-manh-cp-xint-all-com-manh-cp-xint-5975b4c79c-lrh4q",
+					"TRACE_ID": "3b0788e597abaee4",
+					"Organization": "AWG",
+					"User": "rpanneerselvam@manh.com",
+					"fromInboundMessageType": "awpf-payload",
+					"MSG_TYPE": "XNT_HST_InventoryAdjustment",
+					"direction": "Outbound"
+				},
+				"messageId": "16543999514091415",
+				"publishTime": "2025-10-10T12:45:25.256Z"
+			}
+		}
+	]
+}

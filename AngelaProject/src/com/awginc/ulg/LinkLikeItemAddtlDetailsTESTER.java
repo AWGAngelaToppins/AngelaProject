@@ -178,9 +178,13 @@ public class LinkLikeItemAddtlDetailsTESTER    {
 		
 	}
 	public static Connection getConn() throws SQLException {
-		String url ="jdbc:db2://DWPROD01:60000/DWPROD";
-		String id  = "databob";
-		String psw = "databob";
+//		String url ="jdbc:db2://DWPROD01:60000/DWPROD";
+//		String id  = "databob";
+//		String psw = "databob";
+
+		String url ="jdbc:db2://PRHDB2:60000/AWG";
+		String id  = "dvantage";
+		String psw = "dvantage";
 		
 	      Connection connection;
 			try
