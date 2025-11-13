@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE job [
+	<!ENTITY job-listeners SYSTEM "entities/awg-job-listener-list.xml">
+	<!ENTITY step-listeners SYSTEM "entities/awg-step-listener-list.xml">
+]>
+
+<job id="RPE_Daily_UlgLinkLikeItemsTester" version="1.0" xmlns="http://xmlns.jcp.org/xml/ns/javaee">
+
+<listeners>		
+	  &job-listeners;
+    </listeners>
+    
+	<properties>
+		<property name="INBOUND"    	    value="#{systemProperties['APP_DATA']}/#{systemProperties['input']}"/> 
+		<property name="OUTBOUND"   	    value="#{systemProperties['APP_DATA']}/#{systemProperties['output']}"/>  
+
+		<property name="inputFile"  	    value="#{systemProperties['APP_DATA_TMP_FCLTY']}/"/>
+     	<property name="outputFile" 	    value="#{systemProperties['APP_DATA_TMP_FCLTY']}/"/>  
+     	
+	</properties>
+
+          
+	<step id="UlgAutomationExtract">
+	
+		<listeners> 		&step-listeners; 		</listeners>
+	
+		<batchlet ref="com.awginc.ulg.LinkLikeItemExtractGroups" > 
+			<properties>
+				<property name="dataSourceLookup" value="jdbc/db2/dwhse"/>
+				<property name="outPutFile" value="#{jobProperties['outputFile']}"/>
+			</properties>
+		</batchlet>
+
+    	<next on="COMPLETED" to="UlgAutomationItemDetails"/>   
+		<fail on="*" exit-status="FAILED"/>
+	</step>
+
+	<step id="UlgAutomationItemDetails">
+		<listeners> 		&step-listeners; 		</listeners>
+	
+		<batchlet ref="com.awginc.ulg.LinkLikeItemDetails" > 
+			<properties>
+				<property name="dataSourceLookup" value="jdbc/db2/dwhse"/>
+				<property name="inputFile" value="#{jobProperties['inputFile']}"/>
+			</properties>
+		</batchlet>
+
+    	<next on="COMPLETED" to="UlgAutomationAddtlDetails" />  
+		<fail on="*" exit-status="FAILED"/>
+
+	</step>
+ 
+	<step id="UlgAutomationAddtlDetails">
+		<listeners> 		&step-listeners; 		</listeners>
+	
+		<batchlet ref="com.awginc.ulg.LinkLikeItemAddtlDetails" > 
+			<properties>
+				<property name="dataSourceLookup" value="jdbc/db2/batapp/db2pdba"/>
+				<property name="inputFile" value="#{jobProperties['inputFile']}"/>
+			</properties>
+		</batchlet>
+
+    	<next on="COMPLETED" to="UlgAutomationUpdate" />  
+		<fail on="*" exit-status="FAILED"/>
+
+	</step>
+ 
+	<step id="UlgAutomationUpdate">
+		<listeners> 		&step-listeners; 		</listeners>
+	
+		<batchlet ref="com.awginc.ulg.LinkLikeItemUpdates" > 
+			<properties>
+				<property name="dataSourceLookup" value="jdbc/db2/batapp/db2pdba"/>
+				<property name="inputFile" value="#{jobProperties['inputFile']}"/>
+			</properties>
+		</batchlet>
+
+    	<next on="COMPLETED" to="UlgChanges" />  
+		<fail on="*" exit-status="FAILED"/>
+
+	</step>
+ 	
+	
+	<step id="UlgChanges">
+		<listeners> 		&step-listeners; 		</listeners>
+	
+		<batchlet ref="com.awginc.ulg.UlgChanges" > 
+			<properties>
+				<property name="dataSourceLookup" value="jdbc/db2/batapp/db2pdba"/>
+				<property name="inputFile" value="#{jobProperties['inputFile']}"/>
+			</properties>
+		</batchlet>
+
+    	<end on="COMPLETED" />  
+		<fail on="*" exit-status="FAILED"/>
+
+	</step>	
+</job>
